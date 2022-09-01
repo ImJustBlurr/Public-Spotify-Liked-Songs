@@ -1,5 +1,5 @@
 # Public Spotify Liked Songs Playlist
-A python program to automatically add your liked songs to a public spotify playlist. 
+A python program to automatically add 100 of your liked songs to a public spotify playlist. 
 
 ## Instructions
 1. **Install Dependencies**
