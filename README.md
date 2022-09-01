@@ -1,5 +1,5 @@
 # Public Spotify Liked Songs Playlist
-A python program to automatically add your liked songs to a spotify playlist. 
+A python program to automatically add your liked songs to a public spotify playlist. 
 
 ## Instructions
 1. **Install Dependencies**
@@ -28,7 +28,7 @@ A python program to automatically add your liked songs to a spotify playlist.
 
 - **(OPTIONAL) Set up your file to be automatically ran on a given day of the week using batch files and Windows Task Scheduler.**
 
-1. Create a text document and write these into the first line. ```<Your Python.exe Location> <Your python Scripts Location>```
+1. Create a text document in the folder you downloaded and write these into the first line. ```<Your Python.exe Location> <Your python Scripts Location>``` (filling those in with your personal locations)
 2. Save that file as `yourfilename.bat`. Feel free to change "yourfilename" to whatever.
 3. Click your windows button and search for "Windows Task Scheduler".
 4. Click "Create Basic Task" on the top right.
