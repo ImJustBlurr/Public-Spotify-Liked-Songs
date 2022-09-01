@@ -31,7 +31,9 @@ A python program to automatically add 100 of your liked songs to a public spotif
 1. Create a text document in the folder you downloaded and write these into the first line. ```<Your Python.exe Location> <Your python Scripts Location>``` (filling those in with your personal locations)
 
 ex: ```"C:\new_software\finance\Scripts\python.exe" "C:/new_software/Web Scraping/Web-Scraping/Selenium Web Scraping/scraping-lazada.py"```
+ 
 ^ snippet taken from: https://towardsdatascience.com/automate-your-python-scripts-with-task-scheduler-661d0a40b279
+
 3. Save that file as `yourfilename.bat`. Feel free to change "yourfilename" to whatever.
 4. Click your windows button and search for "Windows Task Scheduler".
 5. Click "Create Basic Task" on the top right.
